@@ -1,0 +1,1 @@
+# Open the index file and enter the integer number on the prompt.

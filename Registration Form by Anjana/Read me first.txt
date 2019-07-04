@@ -1,0 +1,2 @@
+# Username and email address are validated using Javascript and jquery.
+# Navigation and registration form are responsive for three screen sizes using media queries.
